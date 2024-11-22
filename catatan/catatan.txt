@@ -1,0 +1,3 @@
+INSERT INTO `user` (nama, user_name, PASSWORD) VALUE ('dodo', 'dodo_07', '7777')
+UPDATE `user` SET nama = '', user_name = '', PASSWORD = '' WHERE id_user = ''
+DELETE FROM `user` WHERE id_user = ''
