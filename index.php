@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 	<head>
-		<title>Aplikasi SPPD</title>
+		<title>Aplikasi SPPDS</title>
 		<!-- Style CSS -->
 			<link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css" />
 			<link rel="stylesheet" href="assets/css/animate/animate.min.css" />
